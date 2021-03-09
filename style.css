@@ -1,0 +1,37 @@
+table{
+ font-family: sans-serif;
+ border-collapse: collapse;
+ border-width: medium;
+ border-style: solid;   
+ border-color:darkblue;  
+    
+}
+
+th{
+   font-weight: 800;
+   background-color:darkmagenta;
+   color: black;
+    
+}
+
+#menu-bar{
+  width: 40%;
+  height: 20%;
+  padding-top: 12px;  
+}
+#menu-bar a{
+ color:black;
+ font-family: sans-serif;
+ font-size: 18px;
+    
+}
+#menu-bar a{
+    color:black;
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 10px;
+    padding-right: 10px  
+}
